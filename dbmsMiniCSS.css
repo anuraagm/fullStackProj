@@ -1,0 +1,59 @@
+section{
+	min-height: 100%;
+}
+body, html, .main {
+	font-family: "Raleway", sans-serif
+  height: 960px;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;	
+}
+ x {
+      font-family: Raleway, sans-serif
+ }
+ h1,h2,h3,h4,h5,h6{
+  color: black;
+  font-family: "Raleway", sans-serif
+ }
+ #ServSec {
+    background: url(https://www.woltersadvertising.com/wp-content/uploads/2016/12/integrated-marketing-cropped.jpg);
+    height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ #Abt{
+	background: url(https://c1.staticflickr.com/8/7692/17147298089_4c70a93a01_b.jpg); 
+	font-size: 10px;
+	height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#con{
+    background: url(https://c1.staticflickr.com/9/8856/28188286432_3353c1c7ed_b.jpg); 
+	height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;	
+}
+#found{
+    background-color: rgb(172, 202, 249); 
+	height: 960px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;	
+}
+.navbar-header{
+	box-shadow: none;
+}
+.h1-img {
+   position: absolute; 
+   font: bold Arial;
+    top: 35%;
+    left: 0%;
+   width: 100%; 
+}
+.form-signin-header {
+  box-shadow: none;
+}
